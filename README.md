@@ -26,4 +26,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=isuru666&show_icons=true&locale=en" alt="isuru666" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=isuru666&" alt="isuru666" /></p>
-i wanna a professional and clean portfolio profile , plz do not change personal details , i wnna new and Best uid design profolio
